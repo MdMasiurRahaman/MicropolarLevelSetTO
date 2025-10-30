@@ -1,0 +1,5 @@
+We propose a novel level set-based topology optimization for micropolar solids subjected to thermo-mechanical loading. To capture the size effects, we have incorporated the microstructural length-scale information into the level set-based topology optimization method 
+by adopting a micropolar theory. The proposed non-local topology optimization method can provide accurate topology optimization for size-dependent solids under thermo-mechanical loading. We have demonstrated the effectiveness of the proposed method through a few
+representative two-dimensional benchmark problems. The numerical results reveal the substantial influence of underlying micro-structures, incorporated in the model through micropolar parameters, and temperature on topology optimization, highlighting the necessity
+of the proposed thermo-mechanical micropolar formulation for materials with pronounced non-local effects. For the numerical implementation of the proposed model, we have used open-source finite element libraries, \texttt{Gridap.jl}, 
+and \texttt{GridapTopOpt.jl}, available in Julia, to ensure transparency and reproducibility of the reported computational results. 
