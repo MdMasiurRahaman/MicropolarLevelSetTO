@@ -3,3 +3,8 @@ by adopting a micropolar theory. The proposed non-local topology optimization me
 representative two-dimensional benchmark problems. The numerical results reveal the substantial influence of underlying micro-structures, incorporated in the model through micropolar parameters, and temperature on topology optimization, highlighting the necessity
 of the proposed thermo-mechanical micropolar formulation for materials with pronounced non-local effects. For the numerical implementation of the proposed model, we have used open-source finite element libraries, \texttt{Gridap.jl}, 
 and \texttt{GridapTopOpt.jl}, available in Julia, to ensure transparency and reproducibility of the reported computational results. 
+
+
+### 
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5683842
