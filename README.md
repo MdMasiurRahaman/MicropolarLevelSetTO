@@ -5,6 +5,6 @@ of the proposed thermo-mechanical micropolar formulation for materials with pron
 and \texttt{GridapTopOpt.jl}, available in Julia, to ensure transparency and reproducibility of the reported computational results. 
 
 
-### # See the details using the link given below: 
+# See the details using the link given below: 
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5683842
