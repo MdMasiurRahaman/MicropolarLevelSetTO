@@ -4,3 +4,6 @@ This article proposes a novel level set-based topology optimization for micropol
 
 https://doi.org/10.1016/j.ijmecsci.2026.111547
 
+# Julia version used for the codes:
+
+Julia 1.10
